@@ -5,3 +5,8 @@ Icon?
 rails-i18n-*.gem
 *~
 *.sw[pno]
+doc
+log
+.idea
+.bundle
+
